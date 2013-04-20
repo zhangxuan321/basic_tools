@@ -1,0 +1,9 @@
+set nu
+set shiftwidth=4
+set tabstop=4
+set smarttab
+set cindent
+set autoindent
+syntax on
+set showmatch
+set ignorecase
